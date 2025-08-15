@@ -1,7 +1,7 @@
 # FolderCleaner
 FolderCleaner is a simple Windows Forms application for managing frequently used project folders and cleaning unnecessary build files (bin, obj, .vs).
 
-Features :
+# Features :
 
 Save up to 10 folder paths with a custom name.
 
@@ -19,7 +19,7 @@ obj
 
 User-friendly interface with DataGridView for managing saved addresses.
 
-Usage :
+# Usage :
 
 Add a folder path by clicking Add Folder and enter a name.
 
@@ -29,7 +29,7 @@ Select a row and press Delete Address to remove an entry.
 
 Choose a folder from the list and click Clean to remove build directories.
 
-Requirements :
+# Requirements :
 
 Windows OS
 
